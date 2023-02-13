@@ -1,5 +1,12 @@
 # SR-FRS Radio Module Programming( pin to pin replace SA-818 Module)
 
+<img src="Change FREQ.jpg" width="550" height="800" />
+2023/02 add new Windows x64 tools for SA818 SA-818 SRFRS SR110 both Module Support now!
+
+pls download SA818_SR110_Tools.zip
+
+use usb cable connect COM port install CH340 USB Driver to SET Freq
+--------------------------------------------------------------------------
 My friend (W6IPA) and I developed a versatile Raspberry-Pi hat that
 can be used for Allstar, Echolink, APRS, or any digital modes.
 
