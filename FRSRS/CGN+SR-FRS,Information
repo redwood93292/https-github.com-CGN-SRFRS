@@ -1,0 +1,16 @@
+2023 Upgraded Allstar Node : SR-FRS Radio Programming Module( pin to pin replace SA-818 Module) is a versatile Raspberry-Pi hat that can be used for Allstar, Echolink, 
+APRS,
+or any digital modes
+Working Mode: The both sides of the aTYPE C connecters have different function; PWR+COS(Flash) Communication with Raspberry on USB (main); 
+PWR(GREEN) use /dev/ttyUSB0 to
+Change UHF RF node Frequency
+(only work when you want change UHF Freq (400-470)
+Four section on This Program: Radio - Program the radio (frequency/tome/squelch); 
+Volume-Set the volume level; Filters-Set filters; Version-Show the firmware version of the SA818
+Additional Help: Use the program in this GitHub repository to program the radio module SR-FRS used for the Pi-Hat
+(https://github.com/redwood93292/https-github.com-CGN-SRFRS.git) DCS Codes not support YET; 
+SR110U Board OLED INDICATORS: PTT flash red led light means RF transmit; COS in blue means receiving the RF signal; 
+COM in YELLOW means audio data transmit;
+PWR means power supply is normal; 
+"NOTE: Before programming the SR-FRS module, make sure you HAVE consulted the band plan for
+your country and transmit on a frequency you are allowed to use!"
